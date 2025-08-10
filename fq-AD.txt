@@ -1,4 +1,4 @@
-#!url=https://raw.githubusercontent.com/xhnmt/fqnovel/master/AD_fqnovel.module
+#!url=https://raw.githubusercontent.com/wansheng8/fq-AD/refs/heads/main/fq-AD.txt
 #!name=番茄小说广告屏蔽去短剧
 #!desc=番茄小说广告屏蔽去短剧（增强版），version = 0.3
 
